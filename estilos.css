@@ -11,7 +11,7 @@ body
     justify-content: space-between;
     padding: 10px;
 
-    background-color: pink;
+    background-color: green;
     color: white;
 }
 
@@ -23,10 +23,10 @@ body
 
 .conteudo{
     width: 700px;
-    border: 1px solid pink;
+    border: 1px solid green;
     border-radius: 10px;
     margin: 10px auto;
-    box-shadow: 5px 5px 10px pink;
+    box-shadow: 5px 5px 10px green;
     padding: 10px;
 }
 

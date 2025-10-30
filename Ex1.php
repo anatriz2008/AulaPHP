@@ -53,7 +53,7 @@
             echo"$valorcompra";
 
 
-        }
+        } ?>
 
-</body>
+    </body>
 </html>
