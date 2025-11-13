@@ -34,6 +34,7 @@
             }
 
         ?>
+        
         <a herf="aluno_cadastro.php">voltar</a>
         </div>
 
