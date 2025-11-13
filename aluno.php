@@ -12,7 +12,7 @@
     <?php include "menu.php"?>
 
     <div class="conteudo">
-        <form action="#" method="post">
+        <form action="aluno_cadastro1.php" method="post">
         <p>
         Digite o nome do aluno<br>
         <input type="text" name="nome">
