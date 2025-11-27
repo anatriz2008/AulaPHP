@@ -11,7 +11,7 @@ body
     justify-content: space-between;
     padding: 10px;
 
-    background-color: green;
+    background-color: blue;
     color: white;
 }
 
@@ -23,10 +23,10 @@ body
 
 .conteudo{
     width: 700px;
-    border: 1px solid green;
+    border: 1px solid blue;
     border-radius: 10px;
     margin: 10px auto;
-    box-shadow: 5px 5px 10px green;
+    box-shadow: 5px 5px 10px blue;
     padding: 10px;
 }
 
@@ -42,7 +42,7 @@ body
 {
     padding: 10px;
     width: 150px;
-    background-color: green;
+    background-color: blue;
     color: white;
     font-size: 20px;
     border: none;
@@ -57,7 +57,7 @@ table, td, th
 
 th
 {
-    background-color: darkgreen;
+    background-color: darkblue;
     color: white;
 }
 

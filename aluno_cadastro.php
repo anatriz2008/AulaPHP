@@ -23,7 +23,7 @@
                 $cidade = $_REQUEST["cidade"];
                 $estado = $_REQUEST["estado"];
 
-                $sql = "insert into alunos(nome,cidade,estado) VALUES(:nome, :cidade, :estado)";
+                $sql = "insert into alunoss(nome,cidade,estado) VALUES(:nome, :cidade, :estado)";
 
                 $result = $conexao->prepare($sql);
                 $result->bindValue(":nome",$nome);
