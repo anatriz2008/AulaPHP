@@ -12,20 +12,15 @@
     <?php include "menu.php"?>
 
     <div class="conteudo">
-        <form action="curso_cadastro1.php" method="post">
+        <form action="CursoCadastro.php" method="post">
         <p>
         Digite o nome do curso<br>
-        <input type="text" name="nome">
+        <input type="text" name="curso">
         </p>
 
         <p>
         Digite o nome da cordenador<br>
         <input type="text" name="cordenador">
-        </p>
-
-        <p>
-        Digite o nome do estado<br>
-        <input type="text" name="estado">
         </p>
 
         <p>

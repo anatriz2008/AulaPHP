@@ -17,7 +17,7 @@
                 <tr>
                 <th>Código</th>
                 <th>Nome</th>
-                <th>Cidade</th>
+                <th>cordenador</th>
                 <th>Estado</th>
                 </tr>
 
@@ -31,6 +31,8 @@
             </table>
 
         </div>
+
+        
 
 </body>
 </html>

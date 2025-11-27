@@ -19,7 +19,7 @@
     </p>
 
     <p>
-         O bjetivo deste projeto será Cadastrar alunos em uma escola
+         O bjetivo deste projeto será Cadastrar cursos em uma escola
     </p>
 
     </div>
