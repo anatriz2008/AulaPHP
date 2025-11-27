@@ -21,10 +21,10 @@
                 $curso = $_REQUEST["curso"];
                 $cordenador = $_REQUEST["cordenador"];
 
-                $sql = "insert into cursos(curso,cordenador) VALUES(:curso, :cordenador)";
+                $sql = "insert into cursos(nome,cordenador) VALUES(:nome, :cordenador)";
 
                 $result = $conexao->prepare($sql);
-                $result->bindValue(":curso",$curso);
+                $result->bindValue(":nome",$curso);
                 $result->bindValue(":cordenador",$cordenador);      
                 $result->execute();
 
